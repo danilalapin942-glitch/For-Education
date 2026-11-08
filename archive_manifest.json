@@ -1,0 +1,172 @@
+{
+  "archive": "RepairMach_Math_Figures_2026-11-08.zip",
+  "archive_bytes": 6051422,
+  "archive_sha256": "0323604ebe0c03836c4b8d55800a60bd2cd0b1f99b219a815f6fb4809a0fa9c9",
+  "files": [
+    {
+      "path": "RepairMach_Report_Figures/00_Captions_and_Placement_RU.txt",
+      "bytes": 37535,
+      "sha256": "d54af955cf572fa979816cfbdda7a0ed94cbbf4c4990a576ae4e4addae141155"
+    },
+    {
+      "path": "RepairMach_Report_Figures/01_Replacement_Map.csv",
+      "bytes": 4786,
+      "sha256": "ac10335e8111089015ca680601749194ec629e444635a23f5647a388283104b0"
+    },
+    {
+      "path": "RepairMach_Report_Figures/figures_manifest.json",
+      "bytes": 104316,
+      "sha256": "91199e717b3f723c395b8e582f9d684a80b4a2905bbbc0b865f3e813d6f38418"
+    },
+    {
+      "path": "RepairMach_Report_Figures/RepairMach_Math_Figures_Catalog_2026-11-08.pdf",
+      "bytes": 3774719,
+      "sha256": "c81b73974ba75e25cb63b97cbf0c77f6f52e1d49f256a3069ead63c8f034815b"
+    },
+    {
+      "path": "RepairMach_Report_Figures/images/C01_Polar_Cx0_Cxmin.png",
+      "bytes": 20236,
+      "sha256": "b92ad32fa445b5046a721fb58f2d227a98976b9a024ea7b1388d2b6a01758e83"
+    },
+    {
+      "path": "RepairMach_Report_Figures/images/C02_Profile_and_Finite_Wing.png",
+      "bytes": 40474,
+      "sha256": "cdeffe44a82d86e6ae96bc836a2813bc66f2a7fee30edf1a77305e2fbaa0b8a4"
+    },
+    {
+      "path": "RepairMach_Report_Figures/images/C03_Drag_Components.png",
+      "bytes": 79905,
+      "sha256": "fad767a627ec2a7aece0feb0b111a576196b0af14f79a6ce33875c2671f52871"
+    },
+    {
+      "path": "RepairMach_Report_Figures/images/C04_Fuselage_Influence_on_Wing.png",
+      "bytes": 24879,
+      "sha256": "6f2292fb3e78eaf56d5664d8d1441184db0eb2c97715e73c34eac8b1cd93b4d7"
+    },
+    {
+      "path": "RepairMach_Report_Figures/images/C05_Induced_Downwash.png",
+      "bytes": 73362,
+      "sha256": "209d3541ec4efe37e90174d37ab56a1471de9d26fc75e2df49ce6fcd12ef4f14"
+    },
+    {
+      "path": "RepairMach_Report_Figures/images/C06_GO_Effective_Angle_and_Downwash.png",
+      "bytes": 84896,
+      "sha256": "6df17ac163246051af6530586f1df378a57771b39868445fce512aeb0cebbdb2"
+    },
+    {
+      "path": "RepairMach_Report_Figures/images/C07_Sweep_Circulation_Distribution.png",
+      "bytes": 23385,
+      "sha256": "91911a1455b304f18446bbb3654abb362a360b5c058d562ecfbf9cbdbaca484f"
+    },
+    {
+      "path": "RepairMach_Report_Figures/images/F01_Body_Axes.png",
+      "bytes": 27509,
+      "sha256": "7b17776f10909a6e8e869fae7da211e07c95ee03ca811af5a988791f2f8b7220"
+    },
+    {
+      "path": "RepairMach_Report_Figures/images/F02_Wind_Body_Axes.png",
+      "bytes": 194833,
+      "sha256": "f845002abb9313b93f2565c6271fd0867891932c9489d3056d8cd92e8716697c"
+    },
+    {
+      "path": "RepairMach_Report_Figures/images/F03_Aircraft_Planform_Dimensions.png",
+      "bytes": 28677,
+      "sha256": "c7bbc84faa9a111c030eada11fe0b5ca44c6b0b34b3f26fcb50d750c461f15b9"
+    },
+    {
+      "path": "RepairMach_Report_Figures/images/F04_Mean_Aerodynamic_Chord.png",
+      "bytes": 13741,
+      "sha256": "691517149fb0996fd7538df25c097896026566bdae615855020e28bd813b7a40"
+    },
+    {
+      "path": "RepairMach_Report_Figures/images/F05_Profile_Pressure_Distribution.png",
+      "bytes": 223635,
+      "sha256": "64aacaf81da0b5f798f7b71753fa4fd802fe35d586562c9a0305395a8fb9f7a0"
+    },
+    {
+      "path": "RepairMach_Report_Figures/images/F06_Horseshoe_Vortex_Lattice.png",
+      "bytes": 76585,
+      "sha256": "9e0e55455f1d2ec078799b08559c28e87cd0dd24e9168d285480e007c9998956"
+    },
+    {
+      "path": "RepairMach_Report_Figures/images/F07_Pressure_and_Wake_Example.png",
+      "bytes": 389174,
+      "sha256": "c5029c24df0c1406a6afc273ccbdf62e66560db978a0b5a28721258e10b7d960"
+    },
+    {
+      "path": "RepairMach_Report_Figures/images/F08_Prescribed_Wake_Geometry.png",
+      "bytes": 319014,
+      "sha256": "ebc06632cc7c56e66789b607f58f692a25b143df0c0d19540c534f49bda06636"
+    },
+    {
+      "path": "RepairMach_Report_Figures/images/F09_Aircraft_Design_Stages.png",
+      "bytes": 95380,
+      "sha256": "1b4f7f3f3150a92bedd7132eda37b11499f6ed81a2123d3e2c20adad7c968807"
+    },
+    {
+      "path": "RepairMach_Report_Figures/images/L01_Boundary_Layer_and_Outer_Flow.png",
+      "bytes": 7661,
+      "sha256": "14cac8e24b878e131ab79e2f5f37327ee09bd2a8cea520554d359079988ea236"
+    },
+    {
+      "path": "RepairMach_Report_Figures/images/L02_Laminar_Boundary_Layer_Plate.png",
+      "bytes": 11211,
+      "sha256": "58206434d906923d2e4639aa5b4c11c411b247a7a6a2b0597990d14879cdf4f9"
+    },
+    {
+      "path": "RepairMach_Report_Figures/images/L03_Flow_Separation.png",
+      "bytes": 127541,
+      "sha256": "e75d2939f48c628302744ed8ea009f5e2194d5a7a6a4b99f625567222c4232b3"
+    },
+    {
+      "path": "RepairMach_Report_Figures/images/L04_Mach_Cone_Wave_Propagation.png",
+      "bytes": 71275,
+      "sha256": "28267cabe77d2a7ee97d6ffb24b6bcbbe88374aa01ce6c0ba631e70e3ba0a9b6"
+    },
+    {
+      "path": "RepairMach_Report_Figures/images/L05_Shock_Boundary_Layer_Interaction.png",
+      "bytes": 92355,
+      "sha256": "5bcadb77660a706148728af18f326c5ec977f67cee067becacbafed9bcd89f56"
+    },
+    {
+      "path": "RepairMach_Report_Figures/images/Lebedev_Chernobrovkin_1973_Fig1_16.png",
+      "bytes": 72232,
+      "sha256": "c44578f3d789eb2fad888649ec3db959ad051dbde1573a905abb792157fc4e19"
+    },
+    {
+      "path": "RepairMach_Report_Figures/images/NASA_Erickson_Fig01.png",
+      "bytes": 48893,
+      "sha256": "4a9e50dadeeee38a580bea3fd573a7db32a69b0d93a0d2c269c644148555553f"
+    },
+    {
+      "path": "RepairMach_Report_Figures/images/NASA_Erickson_Fig07.png",
+      "bytes": 50206,
+      "sha256": "851555d147664d267fbb27972d114a5ffd26dd14d41203820d066f46bb41da2e"
+    },
+    {
+      "path": "RepairMach_Report_Figures/images/NASA_Erickson_Fig16.png",
+      "bytes": 36866,
+      "sha256": "6149ab0b1bc09bd7a23bde810bc9379cee24922b6c3f4bf2c366d36a7cc30aec"
+    },
+    {
+      "path": "RepairMach_Report_Figures/images/NASA_TTBW_Fig03.png",
+      "bytes": 499499,
+      "sha256": "8cecb12530d59c3e23bca628c4757130cad427f48fe1c40a04cd1301a38bbd68"
+    },
+    {
+      "path": "RepairMach_Report_Figures/images/NASA_TTBW_Fig04.png",
+      "bytes": 188841,
+      "sha256": "bcaa0f5c14e898c0b131137c940f9389adedc329e0d658f494b64c74a3f09764"
+    },
+    {
+      "path": "RepairMach_Report_Figures/images/NASA_Woodward_1973_Fig01.png",
+      "bytes": 95554,
+      "sha256": "6f9c23d7a8000fcfb2973854747eea3163064ac5fb29a7298f49249b246e4a9a"
+    },
+    {
+      "path": "RepairMach_Report_Figures/images/NASA_Woodward_1973_Panel_Source_p12.png",
+      "bytes": 20548,
+      "sha256": "c4a3dd000f51311b3fc9491b54e36f6553d370a1629b6fbcb9b5fa7f1eb0e54e"
+    }
+  ]
+}

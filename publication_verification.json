@@ -1,0 +1,19 @@
+{
+  "artifact": "RepairMach_Math_Figures_2026-11-08.zip",
+  "archive_bytes": 6051422,
+  "archive_sha256": "0323604ebe0c03836c4b8d55800a60bd2cd0b1f99b219a815f6fb4809a0fa9c9",
+  "ZIP_CRC": "PASS",
+  "safe_relative_archive_paths": "PASS",
+  "preview_exact_file_byte_comparison": "PASS",
+  "files": 33,
+  "images": 29,
+  "PDF_pages": 33,
+  "native_manifest_image_SHA256_and_dimensions": "PASS",
+  "secret_and_local_user_path_text_scan": "PASS",
+  "generic_cloud_provenance_paths_reviewed_and_preserved": 8,
+  "opaque_library_provenance_identifiers_preserved": 2,
+  "images_GPS_metadata_absent": "PASS",
+  "PDF_automatic_action_embedded_files_JavaScript_absent": "PASS",
+  "original_archive_repacked_or_modified": false,
+  "scope": "One user-designated illustration archive; no source programs, aircraft models, solver data or unrelated computer files"
+}
